@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.Fertiberiatech.Web", "NS.Fertiberiatech.Web\NS.Fertiberiatech.Web.csproj", "{6BD6E3BA-9A16-49DB-848A-71FCA271F569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.Fertiberiatech.Web.PublishedContentModels", "NS.Fertiberiatech.Web.PublishedContentModels\NS.Fertiberiatech.Web.PublishedContentModels.csproj", "{E4BBE8C2-14B5-4B68-A755-3947F34B1D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BD6E3BA-9A16-49DB-848A-71FCA271F569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD6E3BA-9A16-49DB-848A-71FCA271F569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD6E3BA-9A16-49DB-848A-71FCA271F569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD6E3BA-9A16-49DB-848A-71FCA271F569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4BBE8C2-14B5-4B68-A755-3947F34B1D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BBE8C2-14B5-4B68-A755-3947F34B1D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BBE8C2-14B5-4B68-A755-3947F34B1D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BBE8C2-14B5-4B68-A755-3947F34B1D85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C857E3AF-A503-4E7B-980E-08D279BC9805}
+	EndGlobalSection
+EndGlobal
